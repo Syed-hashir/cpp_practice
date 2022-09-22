@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1663869841 source:c:\users\haseeb\documents\git-hashir\cpp_practice\week_1\class\main.cpp
+	<iostream>
+	"sum.h"
+
+1663870042 c:\users\haseeb\documents\git-hashir\cpp_practice\week_1\class\sum.h
+	<iostream>
+
